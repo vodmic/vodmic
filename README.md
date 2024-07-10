@@ -6,12 +6,13 @@
 <!-- 該当するプロジェクトの中から任意のものを選ぶ-->
 <p style="display: inline">
   <!-- フロントエンドのフレームワーク一覧 -->
-  <img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-  <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss">
+ <img src="https://img.shields.io/badge/-Node.js-000000.svg?logo=node.js&style=for-the-badge">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+<img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge">
+<img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=white">
+
  
   <!-- バックエンドのフレームワーク一覧 -->
   <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=for-the-badge">
