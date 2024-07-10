@@ -11,6 +11,8 @@
   <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge">
   <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&amp;logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
+  <img src=" https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss?style=for-the-badge&logo=Sass&logoColor=white">
+ 
   <!-- バックエンドのフレームワーク一覧 -->
   <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=for-the-badge">
   
