@@ -31,8 +31,7 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vodmic)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vodmic&layout=compact)](https://github.com/vodmic/github-readme-stats)
 
 
 
